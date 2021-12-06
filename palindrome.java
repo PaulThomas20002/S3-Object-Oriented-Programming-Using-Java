@@ -6,7 +6,7 @@ class palindrome{
         String Str = args[0];
         String rev = "";
         int length = Str.length();
-        for(int i=length-1; i>=0; i++){
+        for(int i=length-1; i>=0; i--){
             rev = rev + Str.charAt(i);
         }
         System.out.println("Reversed String is " + rev);
