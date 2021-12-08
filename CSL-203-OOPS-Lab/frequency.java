@@ -1,4 +1,4 @@
-class frequency {
+class frequency { //the filename should be same as the class name
     public static void main (String[] args) {
         String Str = args[0];
         System.out.println("Given String is " + args[0]);
