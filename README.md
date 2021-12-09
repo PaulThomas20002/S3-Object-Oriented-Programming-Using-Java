@@ -44,8 +44,7 @@ Exception Handling - Checked Exceptions, Unchecked Exceptions, try Block and cat
 Multiple catch Clauses, Nested try Statements, throw, throws and finally.
 Input/Output - I/O Basics, Reading Console Input, Writing Console Output, PrintWriter Class,
 Object Streams and Serialization, Working with Files.
-Download Syllabus and Study Materials from WWW.KTUSTUDENTS.IN
-COMPUTER SCIENCE AND ENGINEERING
+
 
 <br><br>
 Module 4
