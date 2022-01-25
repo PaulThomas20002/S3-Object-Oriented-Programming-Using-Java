@@ -12,11 +12,6 @@ class InvalidNumberException extends Exception{
     }
 }
 class A5_1.java{
-    public static void check(int b) throws InvalidNumberException{
-    if(b<=0){
-    throw new InvalidNumberException("invalid number");
-    }
-}
     public static void main(String args[]){
     int[] a=new int[10];
     float sum=0; 
